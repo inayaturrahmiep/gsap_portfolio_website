@@ -1,5 +1,6 @@
 {
   "name": "inayaportfolio",
+  "homepage": "https://inayaturrahmiep.github.io/gsap_portfolio_website/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gp-pages -d dist"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
