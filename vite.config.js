@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
     plugins: [react(), tailwindcss()],
-    base: '/gsap_portfolio_website/',
+    base: '/gsap_portfolio_website',
 })
